@@ -116,3 +116,13 @@ Pokemon = CHARIZARD,63
     Item = SITRUSBERRY
 Pokemon = BLASTOISE,63
     Item = SITRUSBERRY
+#-------------------------------
+[POKEMONTRAINER_Bianca,Bianca]
+Items = FULLRESTORE,FULLRESTORE,FULLRESTORE
+LoseText = "Phew! You're really a strong Trainer, that's for sure!"
+Pokemon = MUSHARNA,50
+Pokemon = DEWOTT,50
+Pokemon = PIGNITE,50
+Pokemon = SERVINE,50
+Pokemon = AUDINO,50
+Pokemon = FRAXURE,50
